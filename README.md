@@ -2,6 +2,10 @@
 
 Recall turns class notes and study documents into a quick multiple-choice quiz and a set of review flashcards. It is a mobile-friendly, installable web app; processing happens in your browser and recent study sets stay on your device.
 
+## Live demo
+
+https://rommaldred2829-create.github.io/recall-flashcard-quiz/
+
 ## Features
 
 - Paste notes or upload TXT, MD, CSV, HTML, JSON, RTF, PDF, or DOCX files (up to 10 MB).
@@ -13,7 +17,7 @@ Recall turns class notes and study documents into a quick multiple-choice quiz a
 
 ## Install and run
 
-You can use the hosted GitHub Pages link in a mobile or desktop browser. To run locally, download or clone this repository and serve the folder over HTTP (service workers and installation require HTTP or HTTPS). For example, with Python installed:
+You can use the live demo above in a mobile or desktop browser. To run locally, download or clone this repository and serve the folder over HTTP (service workers and installation require HTTP or HTTPS). For example, with Python installed:
 
 ```sh
 python -m http.server 8000
@@ -26,6 +30,4 @@ PDF and DOCX text extraction loads PDF.js and Mammoth from a public CDN when fir
 ## Author
 
 - Name: **Romm Aldred L. Abaya**
-- Section: **[Your section]**
-
-Add the correct section before submitting.
+- Section: **BSINTE 2C**
